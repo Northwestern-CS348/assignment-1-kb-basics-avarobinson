@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66651e0c-d858-452c-a664-4976b72a2bd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/student_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/student_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/student_code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="96">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -24,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="253">
+              <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -47,7 +48,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/statements_kb.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -77,15 +82,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/student_code.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="722" />
-    <option name="height" value="814" />
+    <option name="width" value="1162" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -178,21 +183,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_main_py - 2019.01.22 at 15h 17m 18s.xml">
-      <configuration name="Unittests in main.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_main_py - 2019.01.22 at 15h 17m 39s.xml">
-      <configuration name="Unittests in main.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_main_py - 2019.01.22 at 15h 17m 52s.xml">
-      <configuration name="Unittests in main.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_main_py - 2019.01.22 at 15h 18m 19s.xml">
-      <configuration name="Unittests in main.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_main_py - 2019.01.22 at 15h 18m 33s.xml">
-      <configuration name="Unittests in main.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_main_py - 2019.01.22 at 15h 19m 26s.xml">
       <configuration name="Unittests in main.py" configurationId="tests" />
     </history-entry>
@@ -208,17 +198,32 @@
     <history-entry file="Unittests_in_main_py - 2019.01.22 at 15h 23m 55s.xml">
       <configuration name="Unittests in main.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_main_py - 2019.01.22 at 22h 33m 21s.xml">
+      <configuration name="Unittests in main.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_main_py - 2019.01.23 at 01h 29m 59s.xml">
+      <configuration name="Unittests in main.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_main_py - 2019.01.23 at 01h 33m 08s.xml">
+      <configuration name="Unittests in main.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_main_py - 2019.01.23 at 11h 06m 50s.xml">
+      <configuration name="Unittests in main.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_main_py - 2019.01.23 at 11h 08m 10s.xml">
+      <configuration name="Unittests in main.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="857" height="815" extended-state="0" />
+    <frame x="0" y="23" width="786" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08971292" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09803922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3042877" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3715084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -259,12 +264,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/statements_kb.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statements_kb2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/statements_kb3.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -275,22 +274,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/student_code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="96">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/student_code.py">
+    <entry file="file://$PROJECT_DIR$/statements_kb2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statements_kb.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="105">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
           <folding>
-            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
